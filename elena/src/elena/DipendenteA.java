@@ -19,6 +19,6 @@ public class DipendenteA extends Dipendente {
 	}
 	
 	public void stampa_malattia() {
-		System.out.print("giorni di malattia: " + this.malattia + '\n' + "paga corretta (€): " + this.paga());
+		System.out.print("Giorni di malattia: " + this.malattia + '\n' + "paga corretta (â‚¬): " + this.paga());
 	}
 }
